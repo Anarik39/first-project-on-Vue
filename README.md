@@ -1,4 +1,8 @@
-# vue-project
+# Personal expenses and calculator
+
+The first project with Vue, where I made a table with personal expenses and a calculator.
+
+Stack: Vue 2, Vue-router, Vuex, Vuetify
 
 ## Project setup
 ```
@@ -19,6 +23,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
